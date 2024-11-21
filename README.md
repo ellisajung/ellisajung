@@ -1,22 +1,22 @@
 ## Hi, there! <img src="https://raw.githubusercontent.com/ellisajung/ellisajung/master/wave.gif" width="30px" height="30px" /> 
 
-- I am passionate about enhancing user experiences through UI/UX analysis and performance optimization.
+> My name is Elisa and I'm a Frontend Developer.
+
+- I am passionate about creating better user experience through **UI/UX analysis** and **performance optimization**.
 - I enjoy learning new technologies and gaining fresh insights, constantly pushing my limits.
 - I value collaboration, embracing diverse perspectives and leveraging teamwork to achieve greater results.
 <br><br/>
-- UI/UX 분석과 성능 최적화를 통해 사용자 경험을 향상시키는 데 열정을 가지고 있어요.
+- **UI/UX 분석**과 **성능 최적화**를 통해 사용자 경험을 향상시키는 데 열정을 가지고 있어요.
 - 새로운 기술을 배우고 신선한 인사이트를 얻으며 지속적으로 제 한계를 확장해 나가는 데 가치를 두고 있어요.
 - 다양한 관점을 듣는 것을 중요하게 여기며, 협업을 통해 더 나은 결과를 이끌어낸다고 믿어요.
 <br><br/>
 
-## 👩‍💻 Recent Projects
-
-<br><br/>
-
+<!--
 ## &#x270d; Blog
 
 Recent posts:
 <br><br/>
+-->
 
 ## &#x1f4c8; GitHub Stats
 
@@ -26,9 +26,11 @@ Recent posts:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 </div>
-<br><br/>
 
-## 🔧 Skill Set
+## 🔧 Skillset
+
+Here are the skills I mostly use or have experience with.<br/>
+아래의 스킬들은 현재 주로 사용하고 있거나 경험이 있는 기술 스택입니다.
 
 <table>
   <tr>
@@ -40,10 +42,10 @@ Recent posts:
   </tr>
   <tr>
     <th>Core</th>
-    <td>JavaScript</td>
-    <td>TypeScript</td>
-    <td>React</td>
-    <td>Next.js</td>
+    <td><code>JavaScript</code></td>
+    <td><code>TypeScript</code></td>
+    <td><code>React</code></td>
+    <td><code>Next.js</code></td>
   </tr>
   <tr>
     <th>Styling</th>
@@ -85,7 +87,7 @@ Recent posts:
     <td>Vercel</td>
     <td>Github Actions</td>
     <td>AWS EC2</td>
-    <td>AWS</td>
+    <td>AWS RDS</td>
   </tr>
 </table>
 
